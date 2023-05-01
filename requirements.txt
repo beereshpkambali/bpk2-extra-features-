@@ -46,3 +46,4 @@ ffmpeg-python
 ffmpeg
 Pillow
 ujson
+pip install gunicorn

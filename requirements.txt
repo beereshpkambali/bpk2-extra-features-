@@ -39,7 +39,6 @@ TgCrypto
 py-tgcalls
 python-dotenv
 requests
-aiohttp
 aiofiles
 asyncio
 search_engine_parser

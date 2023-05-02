@@ -45,4 +45,4 @@ ffmpeg-python
 ffmpeg
 Pillow
 ujson
-pip install gunicorn
+gunicorn==20.1.0

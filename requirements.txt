@@ -46,3 +46,4 @@ ffmpeg
 Pillow
 ujson
 gunicorn==20.1.0
+youtube_search

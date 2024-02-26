@@ -81,20 +81,3 @@ python3 bot.py
 <b>ᴄʜᴀɴɴᴇʟ ›› [𝐓𝐆 ᴜᴘᴅᴀᴛᴇᴢ](https://t.me/New_movies_download12)</b>
 
 
-<p id="message" style="color: orange; font-weight: bold;">I'm Mr Abnormal. This is a test message.</p>
-
-<script>
-  var message = document.getElementById("message");
-  var text = message.textContent;
-  var i = 0;
-
-  function typeWriter() {
-    if (i < text.length) {
-      message.textContent += text.charAt(i);
-      i++;
-      setTimeout(typeWriter, 50);
-    }
-  }
-
-  typeWriter();
-</script>

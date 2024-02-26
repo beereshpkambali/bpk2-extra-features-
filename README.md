@@ -81,3 +81,20 @@ python3 bot.py
 <b>ᴄʜᴀɴɴᴇʟ ›› [𝐓𝐆 ᴜᴘᴅᴀᴛᴇᴢ](https://t.me/New_movies_download12)</b>
 
 
+<!DOCTYPE html>
+<html>
+<head>
+<title>Stylish Text Example</title>
+<style>
+  .stylish-text {
+    font-family: cursive; /* Or any other stylish font you prefer */
+    font-size: 24px;
+    color: orange;
+    /* Add other styling properties as needed */
+  }
+</style>
+</head>
+<body>
+  <p class="stylish-text">I'm Mr Abnormal. This is a test message.</p>
+</body>
+</html>
